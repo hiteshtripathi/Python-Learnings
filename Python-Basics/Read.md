@@ -1,1 +1,1 @@
-This repository consists of python practice sessions.
+This repository consists of basics of python programmings, fundamental concepts and practice sessions.
