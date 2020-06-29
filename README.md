@@ -1,6 +1,6 @@
 # Basics of Python
-This repository contains Python programs related to OOPS concept.
-The topics which are covered in this Prograaming exercise are:
+This repository contains Python programs related to OOPS and other programming concept.
+The topics which are covered in this Programming exercise are:
    1. Class, Attribte and method.
    2. Inheritance and polymorphism
    3. Magic or Dunder Methods.
