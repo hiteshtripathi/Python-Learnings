@@ -1,1 +1,1 @@
-This folder consists of Pandas lectures Notes.  
+Learnings of Pandas library from one of the most informitive video lectures on Youtube by Keith Galli. This folder consists of Pandas lectures Notes and Practice sessions. For details regarding lecture for beginners of Pandas here's link: https://www.youtube.com/watch?v=vmEHCJofslg
