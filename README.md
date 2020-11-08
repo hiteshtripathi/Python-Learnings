@@ -1,5 +1,5 @@
 # Python Basics
-This repository contains Python programs related to various programming concepts.
+This repository contains Python programs related to various basic programming concepts.
 The topics which are covered in this Programming exercise are:
    1. Class, Attribte and method.
    2. Inheritance and polymorphism
